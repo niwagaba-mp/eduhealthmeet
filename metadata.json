@@ -1,0 +1,8 @@
+{
+  "name": "EduWellness",
+  "description": "A proactive health platform providing subscription-based diagnostics, clinician summaries, and educational health stories.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
